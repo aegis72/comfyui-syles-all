@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-styles-all"
+description = "This is a straight clone of Azazeal04's all-in-one styler menu, which was removed from gh on Jan 21, 2024. I have made no changes to the files at all."
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/aegis72/comfyui-styles-all"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "comfyui-styles-all"
+Icon = ""
